@@ -1,0 +1,7 @@
+venv
+.idea
+.pytest_cache
+.vscode
+build
+main.spec
+compilate.py
